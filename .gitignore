@@ -1,0 +1,14 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Editor-specific settings (machine-dependent, caused import issues for VS Code
+# when shared as-is - see DEVELOPMENT.md)
+.vscode/
+
+# Personal setup notes, not meant to be shared
+Cheat_sheet
+
+# OS files
+.DS_Store
+Thumbs.db
