@@ -104,4 +104,4 @@ Filtro_Facial/
 
 ## Author
 
-Hugo, with assistance from Claude for debugging, class design, and the implementation of new features.
+Myself, Hugo; with assistance from Claude for debugging, class design, and the implementation of new features.
